@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-12 13:37+0100\n"
-"PO-Revision-Date: 2015-06-02 12:35+0000\n"
-"Last-Translator: Anthony <acabot@alchemy.fr>\n"
+"PO-Revision-Date: 2015-06-12 16:02+0000\n"
+"Last-Translator: Benoît <bburnichon@alchemy.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Pootle 2.5.1\n"
 "X-Launchpad-Export-Date: 2011-10-31 17:00+0000\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-SearchPath-5: ../lib/Alchemy\n"
 "X-Poedit-SearchPath-6: ../lib/Doctrine\n"
 "X-Poedit-SearchPath-7: ../bin\n"
-"X-POOTLE-MTIME: 1433248556.000000\n"
+"X-POOTLE-MTIME: 1434124964.000000\n"
 
 #: ../lib/Alchemy/Phrasea/Application.php:607
 msgid "Open the URL in a new window"
@@ -60,7 +60,7 @@ msgstr "Un fichier portant le même UUID existe déjà dans la base"
 
 #: ../lib/Alchemy/Phrasea/Command/Developer/IniReset.php:67
 msgid "Please enter the databox name to reset or create"
-msgstr ""
+msgstr "Veuillez entrer le nom de la databox à créer ou à ré-initialiser."
 
 #: ../lib/Alchemy/Phrasea/Controller/Admin/Collection.php:372
 #: ../lib/Alchemy/Phrasea/Controller/Admin/Databox.php:424
