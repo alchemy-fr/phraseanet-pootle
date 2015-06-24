@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-12 13:37+0100\n"
-"PO-Revision-Date: 2015-06-24 13:28+0000\n"
+"PO-Revision-Date: 2015-06-24 16:42+0000\n"
 "Last-Translator: Anthony <acabot@alchemy.fr>\n"
 "Language-Team: \n"
 "Language: en_GB\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Poedit 1.8.1\n"
 "X-Launchpad-Export-Date: 2011-10-31 17:00+0000\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-SearchPath-5: ../lib/Alchemy\n"
 "X-Poedit-SearchPath-6: ../lib/Doctrine\n"
 "X-Poedit-SearchPath-7: ../bin\n"
-"X-POOTLE-MTIME: 1435152488.000000\n"
+"X-POOTLE-MTIME: 1435164136.000000\n"
 
 #: ../lib/Alchemy/Phrasea/Application.php:607
 msgid "Open the URL in a new window"
@@ -486,7 +486,7 @@ msgstr "First name"
 #: ../tmp/cache_twig/7d/b8/8269870c0ae0b3c6921decf4cc3be58b8b213ecb5a88afaf24ec9499daa4.php:305
 #: ../tmp/cache_twig/e2/f6/85f3ed416e04d7e630079082b9264683e895de7a44052add2a8cc18a0661.php:327
 msgid "admin::compte-utilisateur email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../lib/Alchemy/Phrasea/Controller/Admin/Users.php:307
 #: ../lib/Alchemy/Phrasea/Core/Provider/RegistrationServiceProvider.php:79
@@ -1823,7 +1823,7 @@ msgstr "Name"
 #: ../lib/Alchemy/Phrasea/Controller/Report/Informations.php:66
 #: ../lib/Alchemy/Phrasea/Controller/Report/Informations.php:452
 msgid "report:: email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../lib/Alchemy/Phrasea/Controller/Report/Informations.php:67
 #: ../lib/Alchemy/Phrasea/Controller/Report/Informations.php:453
@@ -2033,11 +2033,11 @@ msgstr "Wrong password"
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Account.php:136
 msgid "forms::l'email semble invalide"
-msgstr "Email address seems invalid."
+msgstr "E-mail address seems invalid."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Account.php:142
 msgid "forms::les emails ne correspondent pas"
-msgstr "Emails do not match."
+msgstr "E-mails do not match."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Account.php:154
 msgid "phraseanet::erreur: echec du serveur de mail"
@@ -2048,12 +2048,12 @@ msgid ""
 "admin::compte-utilisateur un email de confirmation vient de vous etre "
 "envoye. Veuillez suivre les instructions contenue pour continuer"
 msgstr ""
-"A confirmation email has been sent. Please follow the instructions contained "
-"to continue."
+"A confirmation e-mail has been sent. Please follow the instructions "
+"contained to continue."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Account.php:186
 msgid "admin::compte-utilisateur: L'email a correctement ete mis a jour"
-msgstr "Email address successfully updated."
+msgstr "E-mail address successfully updated."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Account.php:190
 msgid "admin::compte-utilisateur: erreur lors de la mise a jour"
@@ -2154,12 +2154,12 @@ msgstr "Invalid CAPTCHA answer."
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:421
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:492
 msgid "login::notification: demande de confirmation par mail envoyee"
-msgstr "Email confirmation sent."
+msgstr "E-mail confirmation sent."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:424
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:495
 msgid "Unable to send your account unlock email."
-msgstr "Unable to send email to unlock your account."
+msgstr "Unable to send e-mail to unlock your account."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:485
 msgid "Invalid link."
@@ -2192,11 +2192,11 @@ msgstr "Account does not exist"
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:659
 msgid "Invalid email address"
-msgstr "Invalid email address."
+msgstr "Invalid e-mail address."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:677
 msgid "phraseanet:: Un email vient de vous etre envoye"
-msgstr "An email has been sent."
+msgstr "An e-mail has been sent."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:725
 msgid "Vous etes maintenant deconnecte. A bientot."
@@ -2237,7 +2237,7 @@ msgstr "Please fill the captcha field."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:1031
 msgid "login::erreur: Vous n'avez pas confirme votre email"
-msgstr "Access denied, you have not confirmed your email address."
+msgstr "Access denied, you have not confirmed your e-mail address."
 
 #: ../lib/Alchemy/Phrasea/Controller/Root/Login.php:1038
 msgid "login::erreur: Erreur d'authentification"
@@ -2402,11 +2402,11 @@ msgstr "This place does not seem to exist."
 
 #: ../lib/Alchemy/Phrasea/Form/Constraint/NewEmail.php:24
 msgid "This email is already bound to an account"
-msgstr "This email is already bound to an account."
+msgstr "This e-mail is already bound to an account."
 
 #: ../lib/Alchemy/Phrasea/Form/Constraint/NewEmailValidator.php:25
 msgid "There is already an account bound to this email address"
-msgstr "There is already an account bound to this email address."
+msgstr "There is already an account bound to this e-mail address."
 
 #: ../lib/Alchemy/Phrasea/Form/Constraint/NewLogin.php:24
 #: ../lib/Alchemy/Phrasea/Form/Constraint/NewLoginValidator.php:25
@@ -2439,7 +2439,7 @@ msgstr "Remember me."
 #: ../lib/Alchemy/Phrasea/Form/Login/PhraseaForgotPasswordForm.php:23
 #: ../lib/Alchemy/Phrasea/Form/Login/PhraseaRegisterForm.php:38
 msgid "E-mail"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../lib/Alchemy/Phrasea/Form/Login/PhraseaRecoverPasswordForm.php:47
 #: ../lib/Alchemy/Phrasea/Form/Login/PhraseaRenewPasswordForm.php:39
@@ -2475,7 +2475,7 @@ msgstr "Current password"
 
 #: ../lib/Alchemy/Phrasea/Helper/User/Edit.php:599
 msgid "Email addess is not valid"
-msgstr "Email address is not valid."
+msgstr "E-mail address is not valid."
 
 #: ../lib/Alchemy/Phrasea/Helper/User/Edit.php:628
 #, php-format
@@ -2489,7 +2489,7 @@ msgstr "You will no longer receive notifications at %s"
 
 #: ../lib/Alchemy/Phrasea/Helper/User/Manage.php:158
 msgid "Invalid mail address"
-msgstr "Invalid email address."
+msgstr "Invalid e-mail address."
 
 #: ../lib/Alchemy/Phrasea/Helper/User/Manage.php:221
 msgid "Invalid template name"
@@ -2740,7 +2740,7 @@ msgstr "Download"
 #: ../lib/Alchemy/Phrasea/Notification/Mail/MailRequestEmailConfirmation.php:21
 #: ../lib/Alchemy/Phrasea/Notification/Mail/MailRequestEmailUpdate.php:21
 msgid "login::register: sujet email : confirmation de votre adresse email"
-msgstr "Email address check."
+msgstr "E-mail address check."
 
 #: ../lib/Alchemy/Phrasea/Notification/Mail/MailRequestEmailConfirmation.php:29
 msgid ""
@@ -2748,8 +2748,8 @@ msgid ""
 "la base de donnees, merci de confirmer votre e-mail en suivant le lien ci-"
 "dessous."
 msgstr ""
-"To process your registration, please confirm your email address by using the "
-"following link:"
+"To process your registration, please confirm your e-mail address by using "
+"the following link:"
 
 #: ../lib/Alchemy/Phrasea/Notification/Mail/MailRequestEmailConfirmation.php:37
 msgid "Validate e-mail address"
@@ -3523,7 +3523,7 @@ msgstr "Email export failed."
 
 #: ../lib/classes/eventsmanager/notify/downloadmailfail.php:156
 msgid "Get a notification when a mail export fails"
-msgstr "Get a notification when email exports fails"
+msgstr "Get a notification when e-mail exports fails"
 
 #: ../lib/classes/eventsmanager/notify/feed.php:148
 #, php-format
@@ -3650,7 +3650,7 @@ msgstr "%1$s asks you to validate %2$s"
 
 #: ../lib/classes/eventsmanager/notify/validate.php:189
 msgid "Recevoir des notifications lorsqu'on me demande une validation"
-msgstr "Receive Feedback notifications by email"
+msgstr "Receive Feedback notifications by e-mail"
 
 #: ../lib/classes/eventsmanager/notify/validationdone.php:152
 #, php-format
@@ -5183,7 +5183,7 @@ msgstr "Your e-mail will be used to log in to the application."
 #: ../tmp/cache_twig/0e/3e/c9229564143c76beec04e26b6f4c397924cb08f9f4b5bb5cc491e13d81c9.php:766
 #: ../tmp/cache_twig/d9/c8/09f22bd9734531e4179a97e10292f51be6f033e517ce3e7281bf5ee205fb.php:766
 msgid "Please be sure it is still valid and you can access it"
-msgstr "Make sure to use a valid email address."
+msgstr "Make sure to use a valid e-mail address."
 
 #: ../tmp/cache_twig/0e/3e/c9229564143c76beec04e26b6f4c397924cb08f9f4b5bb5cc491e13d81c9.php:804
 #: ../tmp/cache_twig/d9/c8/09f22bd9734531e4179a97e10292f51be6f033e517ce3e7281bf5ee205fb.php:804
@@ -5427,7 +5427,7 @@ msgstr "Your account is locked. Please follow the following link to unlock it."
 #: ../tmp/cache_twig/0f/27/b158dee516f3babe63234e20db80854a0cbc6ffaf8a5b6de2ff8686cb113.php:122
 #: ../tmp/cache_twig/5c/06/ff126314530d5eab026f1f09978d035fac6c7fabdc0cf6c0b76339bd6a48.php:122
 msgid "login:: Envoyer a nouveau le mail de confirmation"
-msgstr "Send me a new confirmation email"
+msgstr "Send me a new confirmation e-mail"
 
 #: ../tmp/cache_twig/0f/27/b158dee516f3babe63234e20db80854a0cbc6ffaf8a5b6de2ff8686cb113.php:179
 #: ../tmp/cache_twig/1f/f1/257648dd5649f5539c61653d253b7d79a68d8105970f1bbaa8b6815586ea.php:125
@@ -5695,7 +5695,7 @@ msgstr "Add"
 #: ../tmp/cache_twig/18/28/d8f0d5b6c976a4ef95688454086a51ae9ec36ef5556abb2bac11cac7583f.php:371
 msgid "Push::unpush permet d'envoyer un lot d'image a des destinataires"
 msgstr ""
-"Push allows to send documents to users. They will receive an email "
+"Push allows to send documents to users. They will receive an e-mail "
 "containing a link launching Phraseanet Lightbox. This interface allows them "
 "to view and download its content. For authenticated users, a push is also "
 "available as a received basket in the work zone."
@@ -5705,7 +5705,7 @@ msgid ""
 "Push::une validation est une demande d'appreciation a d'autres personnes"
 msgstr ""
 "Feedback can addressed requests for assessment of documents to users. They "
-"will receive an email containing a link launching Phraseanet Lightbox. This "
+"will receive an e-mail containing a link launching Phraseanet Lightbox. This "
 "interface allows them to view, download, and provide advice and comments on "
 "its content. For authenticated users, the Feedback is also available as a "
 "received basket in the work zone."
@@ -6271,7 +6271,7 @@ msgstr "Id"
 #: ../tmp/cache_twig/23/15/902f298cabcb67306ee4e7eda8e88b230632b3c37c77bfd11600cf743379.php:257
 #: ../tmp/cache_twig/a0/63/0962f14867122df9bbdd3a266935801d0eae61ab6c4fe275d0bfb7d7d8f1.php:171
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../tmp/cache_twig/23/15/902f298cabcb67306ee4e7eda8e88b230632b3c37c77bfd11600cf743379.php:261
 msgid "Owner"
@@ -6283,7 +6283,7 @@ msgstr "Add a Publisher"
 
 #: ../tmp/cache_twig/23/15/902f298cabcb67306ee4e7eda8e88b230632b3c37c77bfd11600cf743379.php:365
 msgid "Name or email"
-msgstr "Name or Email"
+msgstr "Name or E-mail"
 
 #: ../tmp/cache_twig/23/15/902f298cabcb67306ee4e7eda8e88b230632b3c37c77bfd11600cf743379.php:416
 msgid "You are not the feed owner"
@@ -6624,7 +6624,7 @@ msgstr "Author"
 #: ../tmp/cache_twig/2d/05/58ab40dc40fd39263975b17664bed1dc513dd2e64e4c14770b29ba66ffe2.php:128
 #: ../tmp/cache_twig/72/b6/581bec589ddff86f9363db9928b87137efdf5435f198865d0d9a958b1400.php:93
 msgid "publication : email autheur"
-msgstr "Author's email"
+msgstr "Author's e-mail"
 
 #: ../tmp/cache_twig/2d/05/58ab40dc40fd39263975b17664bed1dc513dd2e64e4c14770b29ba66ffe2.php:140
 #: ../tmp/cache_twig/72/b6/581bec589ddff86f9363db9928b87137efdf5435f198865d0d9a958b1400.php:105
@@ -8414,7 +8414,7 @@ msgstr "Select here the type of documents you want to search."
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2276
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2276
 msgid "Barre d'outils"
-msgstr "Tools bar"
+msgstr "Toolbar"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2282
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2282
@@ -9637,7 +9637,7 @@ msgstr "Company"
 
 #: ../tmp/cache_twig/89/20/9bd1c99fc1a9d6472983e3a9bcbf2eb52e3f0ba7e9f2f6d867643f33ef5c.php:107
 msgid "E-Mail"
-msgstr "Email"
+msgstr "E-mail"
 
 #: ../tmp/cache_twig/89/20/9bd1c99fc1a9d6472983e3a9bcbf2eb52e3f0ba7e9f2f6d867643f33ef5c.php:125
 #: ../tmp/cache_twig/d9/e4/e5a0c3887de718b69747e9bcbabf2fca7312d0f862095ba49b38eb3959fc.php:229
@@ -10464,8 +10464,8 @@ msgstr ""
 "Check the force authentication checkbox to constrain users to authenticate "
 "to access content of Push and Feedbacks.\n"
 "This feature can avoid divulging connection parameters contained in given "
-"links in emails notifications. This may be helpfull if you'd like to be sure "
-"these are your recipients who access the shared items."
+"links in e-mails notifications. This may be helpfull if you'd like to be "
+"sure these are your recipients who access the shared items."
 
 #: ../tmp/cache_twig/bd/3b/60e0a06a71768472e0199d6712af8b2c0946a5e7da1f2e77e0ba07c30db8.php:61
 msgid "Le bridge FlickR ne prend en charge que les photos"
@@ -10535,7 +10535,7 @@ msgid ""
 "Si cet email contient des liens non cliquables, copiez/collez ces liens dans "
 "votre navigateur."
 msgstr ""
-"If this email contains non-clickable links, please copy/paste them into the "
+"If this e-mail contains non-clickable links, please copy/paste them into the "
 "address bar of your browser."
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:181
@@ -10544,7 +10544,7 @@ msgstr "This link is valid until"
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:200
 msgid "Le contenu de cet email est confidentiel, ne le divulguez pas."
-msgstr "The content of this email is confidential. Please do not disclose it."
+msgstr "The content of this e-mail is confidential. Please do not disclose it."
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:212
 msgid "Message automatique de Phraseanet"
@@ -11392,7 +11392,7 @@ msgstr "Confirm e-mail address"
 msgid ""
 "admin::compte-utilisateur: Pourquoi me demande-t-on mon mot de passe pour "
 "changer mon adresse email ?"
-msgstr "Why should I give my password to change my email?"
+msgstr "Why should I give my password to change my e-mail?"
 
 #: ../tmp/cache_twig/e6/c8/5c4c6fdb048148576732a6cac9a64a13240adc4124e64fa40e7b2517f706.php:125
 msgid ""
