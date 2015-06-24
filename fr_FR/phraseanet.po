@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-12 13:37+0100\n"
-"PO-Revision-Date: 2015-06-12 16:02+0000\n"
-"Last-Translator: Benoît <bburnichon@alchemy.fr>\n"
+"PO-Revision-Date: 2015-06-24 13:43+0000\n"
+"Last-Translator: Anthony <acabot@alchemy.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-SearchPath-5: ../lib/Alchemy\n"
 "X-Poedit-SearchPath-6: ../lib/Doctrine\n"
 "X-Poedit-SearchPath-7: ../bin\n"
-"X-POOTLE-MTIME: 1434124964.000000\n"
+"X-POOTLE-MTIME: 1435153385.000000\n"
 
 #: ../lib/Alchemy/Phrasea/Application.php:607
 msgid "Open the URL in a new window"
@@ -5127,6 +5127,9 @@ msgid ""
 "pouvez continuer sans\n"
 "                                                    corriger ces problèmes."
 msgstr ""
+"Avant de continuer, prenez connaissance des\n"
+"points ci-dessous. Vous pouvez continuer sans\n"
+"corriger ces problèmes."
 
 #: ../tmp/cache_twig/0e/3e/c9229564143c76beec04e26b6f4c397924cb08f9f4b5bb5cc491e13d81c9.php:483
 #: ../tmp/cache_twig/d9/c8/09f22bd9734531e4179a97e10292f51be6f033e517ce3e7281bf5ee205fb.php:483
@@ -6510,10 +6513,12 @@ msgid ""
 "                     inacessible. Nous vous invitons si vous le souhaitez à "
 "utiliser production dés maintenant."
 msgstr ""
+"Cette interface n'est plus maintenue et ne sera bientôt plus\n"
+"accessible. Utilisez Phraseanet Production dès maintenant."
 
 #: ../tmp/cache_twig/2a/cf/57311da4a725f8e8b3f2c1e27c51235c69a268ae54660a202caa70c4369e.php:122
 msgid "Production "
-msgstr ""
+msgstr "Production"
 
 #: ../tmp/cache_twig/2a/cf/57311da4a725f8e8b3f2c1e27c51235c69a268ae54660a202caa70c4369e.php:176
 msgid "client:: recherche"
@@ -8506,40 +8511,41 @@ msgstr "Afficher le titre"
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2228
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2228
 msgid "Rechercher"
-msgstr ""
+msgstr "Rechercher"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2234
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2234
 msgid ""
 "Taper ici les termes de recherche afin de retrouver les documents souhaités."
 msgstr ""
+"Taper ici les termes de la recherche pour trouver les documents souhaités."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2244
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2244
 msgid "Recherche Avancée"
-msgstr ""
+msgstr "Recherche avancée"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2250
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2250
 msgid ""
 "Séléctionner les champs et les collections sur lesquels vous voulez "
 "rechercher."
-msgstr ""
+msgstr "Sélectionner les champs et les collections sur lesquels rechercher."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2260
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2260
 msgid "Types de documents"
-msgstr ""
+msgstr "Types de documents"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2266
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2266
 msgid "Séléctionner ici le type de document que vous souhaitez rechercher."
-msgstr ""
+msgstr "Sélectionner le type de document à rechercher."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2276
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2276
 msgid "Barre d'outils"
-msgstr ""
+msgstr "Barre d'outils"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2282
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2282
@@ -8547,11 +8553,12 @@ msgid ""
 "Utilisez la barre d'outils pour télécharger les documents ou pour agir sur "
 "ces documents."
 msgstr ""
+"Utiliser la barre d'outils pour télécharger ou interagir sur les documents."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2292
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2292
 msgid "Sélection et Prévisualisation de documents"
-msgstr ""
+msgstr "Sélection et prévisualisation de documents"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2298
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2298
@@ -8562,6 +8569,10 @@ msgid ""
 "                        cliquez sur les documents souhaités.\n"
 "                        Pour prévisualier un document cliquez dessus."
 msgstr ""
+"Sélectionner les documents en cliquant dessus.\n"
+"Pour sélectionner plusieurs documents, maintenir la touche Alt ou Maj \n"
+"enfoncée puis cliquer sur les documents souhaités.\n"
+"Pour prévisualiser un document, effectuer une double-clic sur sa vignette."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2312
 #: ../tmp/cache_twig/a1/3b/2e0861a140dac8cc83ac10f5212f7e7912804ccc0555abd0c75c7cb0a9f8.php:199
@@ -8582,11 +8593,14 @@ msgid ""
 "en cliquant sue la\n"
 "                        flèche blanche."
 msgstr ""
+"Consulter et administrer les paniers dans cet onglet\n"
+"Pour créer un panier ou afficher le menu d'un panier existant,\n"
+"cliquer sur les flèches blanches."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2331
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2331
 msgid "Ajouter au panier"
-msgstr ""
+msgstr "Ajouter au panier"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2337
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2337
@@ -8594,6 +8608,8 @@ msgid ""
 "Ajoutez des médias simplement en les faisant glisser vers le panier\n"
 "                        désiré et en relachant au dessus."
 msgstr ""
+"Ajouter des documents dans un panier en les sélectionnant \n"
+"puis en les glissant sur le panier souhaité."
 
 #: ../tmp/cache_twig/5f/8b/bddcd19b3c8e133a74b214bc4ff51e6a5e2775e9b4597d1d2ba75885ed09.php:43
 #: ../tmp/cache_twig/62/46/0f73f446c2257d8868642dc8681b9c19d59d0547ea7fac773a2bdb6767ca.php:43
@@ -10672,7 +10688,7 @@ msgstr ""
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:181
 msgid "Ce lien est valable jusqu'au"
-msgstr ""
+msgstr "Ce lien est valable jusqu'au"
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:200
 msgid "Le contenu de cet email est confidentiel, ne le divulguez pas."
