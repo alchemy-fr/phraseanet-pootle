@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-12 13:37+0100\n"
-"PO-Revision-Date: 2015-06-02 12:37+0000\n"
+"PO-Revision-Date: 2015-06-24 13:28+0000\n"
 "Last-Translator: Anthony <acabot@alchemy.fr>\n"
 "Language-Team: \n"
 "Language: en_GB\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Pootle 2.5.1\n"
 "X-Launchpad-Export-Date: 2011-10-31 17:00+0000\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-SearchPath-5: ../lib/Alchemy\n"
 "X-Poedit-SearchPath-6: ../lib/Doctrine\n"
 "X-Poedit-SearchPath-7: ../bin\n"
-"X-POOTLE-MTIME: 1433248662.000000\n"
+"X-POOTLE-MTIME: 1435152488.000000\n"
 
 #: ../lib/Alchemy/Phrasea/Application.php:607
 msgid "Open the URL in a new window"
@@ -60,7 +60,7 @@ msgstr "A file with the same UUID already exists in database"
 
 #: ../lib/Alchemy/Phrasea/Command/Developer/IniReset.php:67
 msgid "Please enter the databox name to reset or create"
-msgstr ""
+msgstr "Please enter the databox name to reset or create"
 
 #: ../lib/Alchemy/Phrasea/Controller/Admin/Collection.php:372
 #: ../lib/Alchemy/Phrasea/Controller/Admin/Databox.php:424
@@ -6000,6 +6000,8 @@ msgid ""
 "Changes for rotation will be applied only on the sub-definitions of \"image"
 "\" type."
 msgstr ""
+"Changes for rotation will be applied only on the sub-definitions of \"image\""
+" type."
 
 #: ../tmp/cache_twig/1f/33/af72a3afd1e25393575605835b9f425f597a5f8a64d8ffcb2f64a5e2f26b.php:466
 msgid "image rotation"
@@ -6401,10 +6403,12 @@ msgid ""
 "                     inacessible. Nous vous invitons si vous le souhaitez à "
 "utiliser production dés maintenant."
 msgstr ""
+"Phraseanet Classic interface is no longer maintained and will be dropped "
+"soon. Use Phraseanet Production interface right now."
 
 #: ../tmp/cache_twig/2a/cf/57311da4a725f8e8b3f2c1e27c51235c69a268ae54660a202caa70c4369e.php:122
 msgid "Production "
-msgstr ""
+msgstr "Production"
 
 #: ../tmp/cache_twig/2a/cf/57311da4a725f8e8b3f2c1e27c51235c69a268ae54660a202caa70c4369e.php:176
 msgid "client:: recherche"
@@ -8377,52 +8381,52 @@ msgstr "Show Title"
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2228
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2228
 msgid "Rechercher"
-msgstr ""
+msgstr "Search"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2234
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2234
 msgid ""
 "Taper ici les termes de recherche afin de retrouver les documents souhaités."
-msgstr ""
+msgstr "Type here the search terms to find the desired documents."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2244
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2244
 msgid "Recherche Avancée"
-msgstr ""
+msgstr "Advanced search"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2250
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2250
 msgid ""
 "Séléctionner les champs et les collections sur lesquels vous voulez "
 "rechercher."
-msgstr ""
+msgstr "Select fields and collections on which you want to search."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2260
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2260
 msgid "Types de documents"
-msgstr ""
+msgstr "Type of documents"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2266
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2266
 msgid "Séléctionner ici le type de document que vous souhaitez rechercher."
-msgstr ""
+msgstr "Select here the type of documents you want to search."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2276
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2276
 msgid "Barre d'outils"
-msgstr ""
+msgstr "Tools bar"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2282
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2282
 msgid ""
 "Utilisez la barre d'outils pour télécharger les documents ou pour agir sur "
 "ces documents."
-msgstr ""
+msgstr "Use the toolbar to download or interact on these documents."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2292
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2292
 msgid "Sélection et Prévisualisation de documents"
-msgstr ""
+msgstr "Selection and previsualization of documents"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2298
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2298
@@ -8433,6 +8437,10 @@ msgid ""
 "                        cliquez sur les documents souhaités.\n"
 "                        Pour prévisualier un document cliquez dessus."
 msgstr ""
+"Select documents by clicking on them.\n"
+"To select multiple documents, hold down the alt or shift key then\n"
+"click on the desired documents. \n"
+"To preview a document, double click on it."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2312
 #: ../tmp/cache_twig/a1/3b/2e0861a140dac8cc83ac10f5212f7e7912804ccc0555abd0c75c7cb0a9f8.php:199
@@ -8453,18 +8461,21 @@ msgid ""
 "en cliquant sue la\n"
 "                        flèche blanche."
 msgstr ""
+"Consult and administrate baskets in this tab.\n"
+"To create a basket, or display its pop-up menu,\n"
+"click on the white down arrows."
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2331
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2331
 msgid "Ajouter au panier"
-msgstr ""
+msgstr "Add to basket"
 
 #: ../tmp/cache_twig/5c/ba/67c316ca71fa884e4edcfb3c4be8660ca96858184f6c89c0904eb21918e4.php:2337
 #: ../tmp/cache_twig/c5/13/77f9250d31b429b5e3e023d16ff96cae0885ef7c11c6cecae0b5da825f8a.php:2337
 msgid ""
 "Ajoutez des médias simplement en les faisant glisser vers le panier\n"
 "                        désiré et en relachant au dessus."
-msgstr ""
+msgstr "Add documents to basket dragging them to the desired basket."
 
 #: ../tmp/cache_twig/5f/8b/bddcd19b3c8e133a74b214bc4ff51e6a5e2775e9b4597d1d2ba75885ed09.php:43
 #: ../tmp/cache_twig/62/46/0f73f446c2257d8868642dc8681b9c19d59d0547ea7fac773a2bdb6767ca.php:43
@@ -10256,7 +10267,7 @@ msgstr "About"
 
 #: ../tmp/cache_twig/ab/32/86cbb9be143ae2c7505f1d7e307772a807497037d5b70c53e2b8a31b11a4.php:101
 msgid "Deconnexion"
-msgstr ""
+msgstr "Sign out"
 
 #: ../tmp/cache_twig/ab/32/86cbb9be143ae2c7505f1d7e307772a807497037d5b70c53e2b8a31b11a4.php:144
 #: ../tmp/cache_twig/d0/79/d34a1838120e29e5ea92bdd86ed95c61be310c415907a21deb321bf36f14.php:85
@@ -10529,7 +10540,7 @@ msgstr ""
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:181
 msgid "Ce lien est valable jusqu'au"
-msgstr ""
+msgstr "This link is valid until"
 
 #: ../tmp/cache_twig/be/81/5cb62926bb6d31f6da6fb1a060599bf5029e21c158b45127445ed228293f.php:200
 msgid "Le contenu de cet email est confidentiel, ne le divulguez pas."
